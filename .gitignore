@@ -2,3 +2,6 @@
 go.sum
 
 api/openapi.json
+build/configs/local.yml
+build/srv-configuration
+build/project.yml
